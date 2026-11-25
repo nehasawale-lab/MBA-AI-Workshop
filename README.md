@@ -1,2 +1,2 @@
-# MBA-AI-Workshop
+# MBA-AI- Training
 AI-powered financial analysis project
